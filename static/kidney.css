@@ -1,20 +1,18 @@
 body {
     text-align: center;
-      background-color:white;
-    background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-z1lI76XIZNbN8OFGnQHSHotdVhwIxlMP4A&usqp=CAU');
+    background-color: #639a67;
 }
 
-
 header {
-    font-family: 'Varela', serif;
+    font-family: 'Ultra', serif;
     padding-top: 40;
     padding-bottom: 40;
-    background-color:#0000FF;
-    color: white;
+    background-color: #2b580c;
+    color: #d8ebb5;
 }
 
 .btn {
-    background-color:white ;
+    background-color: #323232;
 }
 
 
@@ -23,7 +21,7 @@ input {
     border-radius: 0.5rem;
     text-align: center;
     width: 35%;
-    background-color:white;
+    background-color: #d8ebb5;
 }
 
 @media screen and (max-width: 500px) {
