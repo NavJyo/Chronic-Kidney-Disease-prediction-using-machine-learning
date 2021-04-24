@@ -21,9 +21,9 @@ def predict():
     output = int(prediction[0])
 
     if output == 0:
-        return render_template('kidney.html', prediction_text= 'Chronic Kidney Disease : No')
+        return render_template('kidney.html', prediction_text= 'Horray!! You will never suffer from Chronic Kidney Disease')
     else:
-        return render_template('kidney.html', prediction_text= 'Chronic Kidney Disease: Yes') 
+        return render_template('kidney.html', prediction_text= 'Ouch! There is a chance of Chronic Kidney Disease') 
 
 
 if __name__ == "__main__":
