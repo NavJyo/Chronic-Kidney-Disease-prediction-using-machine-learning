@@ -22,18 +22,18 @@ This is a simple Flask web app which predicts whether a patient is having chroni
 
 Motivation
 
-What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
+With the amount of new diseases coming up every day, there is a need for an effective method to diagnose diseases.  This was one of the disease prediction used for my B.tech major project. 
 
 Installation
 
 The Code is written in Python 3.6.10. If you don't have Python installed you can find it here. If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository:
 
+
 pip install -r requirements.txt
+
 Deployement on Heroku
+
 Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
-
-
-
 Our next step would be to follow the instruction given on Heroku Documentation to deploy a web app.
 
 
