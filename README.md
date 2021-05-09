@@ -64,5 +64,6 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 Technologies Used
 
 ![flask](https://user-images.githubusercontent.com/36689965/117563372-0ab9eb80-b0c3-11eb-9a6d-52962fd46e07.png)  ![python](https://user-images.githubusercontent.com/36689965/117563454-97fd4000-b0c3-11eb-866b-3929f09b6cbc.jpg)
-![heroku](https://user-images.githubusercontent.com/36689965/117563393-2ae9aa80-b0c3-11eb-9731-2c681ca645d6.png)
+![heroku](https://user-images.githubusercontent.com/36689965/117563393-2ae9aa80-b0c3-11eb-9731-2c681ca645d6.png) ![sklearn](https://user-images.githubusercontent.com/36689965/117563487-e1e62600-b0c3-11eb-83bb-e6cb104408f2.png)
+
 
