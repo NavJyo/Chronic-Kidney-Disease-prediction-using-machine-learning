@@ -61,7 +61,7 @@ Directory Tree
 Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue here by including your search query and the expected result 
 
-Technologies Used
+**### Technologies Used**
 
 ![flask](https://user-images.githubusercontent.com/36689965/117563372-0ab9eb80-b0c3-11eb-9a6d-52962fd46e07.png)  
 ![heroku](https://user-images.githubusercontent.com/36689965/117563393-2ae9aa80-b0c3-11eb-9731-2c681ca645d6.png)
