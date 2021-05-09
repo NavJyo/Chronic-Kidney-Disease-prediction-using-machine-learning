@@ -1,19 +1,17 @@
-Diabetes Prediction:
+Chronic Kidney Disease Prediction:
 Table of Content
+1. Demo
+2. Overview
+3. Motivation
+4. Installation
+5. Deployement on Heroku
+6. Directory Tree
+7. Bug / Feature Request
 Demo
-Overview
-Motivation
-Installation
-Deployement on Heroku
-Directory Tree
-Bug / Feature Request
-Demo
-Link: https://kidney26.herokuapp.com
-
-
+Link: https://kidney26.herokuapp.com 
 
 Overview
-This is a simple Flask web app which predicts whether a patient is having diabetes or not.
+This is a simple Flask web app which predicts whether a patient is having chronic kidney diseaase or not 
 
 Motivation
 What to do when you are at home due to this pandemic situation? I started to learn Machine Learning model to get most out of it. I came to know mathematics behind all supervised models. Finally it is important to work on application (real world application) to actually make a difference.
