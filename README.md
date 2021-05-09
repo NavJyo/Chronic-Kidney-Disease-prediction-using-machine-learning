@@ -8,7 +8,9 @@ Table of Content
 5. Deployement on Heroku
 6. Directory Tree
 7. Bug / Feature Request
+
 Demo
+
 Link: https://kidney26.herokuapp.com 
 
 Overview
@@ -34,13 +36,21 @@ Our next step would be to follow the instruction given on Heroku Documentation t
 
 Directory Tree
   ├── static 
+  
     │   ├── css
+    
   ├── template
+  
     │   ├── kidney.html
+    
   ├── Procfile
+  
   ├── README.md
+  
   ├── app.py
+  
   ├── kidney.pkl
+  
   ├── requirements.txt
   
 Technologies Used
