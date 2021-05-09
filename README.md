@@ -40,13 +40,21 @@ Our next step would be to follow the instruction given on Heroku Documentation t
 Directory Tree
 
 ├── static 
-│   ├── css
+
+ │   ├── css
+ 
 ├── template
-│   ├── kidney.html
+
+ │   ├── kidney.html
+ 
 ├── Procfile
+
 ├── README.md
-├── app.py
+
+├── app.py 
+
 ├── kidney.pkl
+
 ├── requirements.txt
  
 
