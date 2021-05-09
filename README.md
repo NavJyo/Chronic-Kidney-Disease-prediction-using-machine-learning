@@ -12,6 +12,7 @@ Table of Content
 Demo
 
 Link: https://kidney26.herokuapp.com 
+![alt text](https://kidney26.herokuapp.com)
 
 Overview
 
@@ -35,25 +36,16 @@ Our next step would be to follow the instruction given on Heroku Documentation t
 
 
 Directory Tree
-  ├── static 
-  
-    │   ├── css
-    
-  ├── template
-  
-    │   ├── kidney.html
-    
-  ├── Procfile
-  
-  ├── README.md
-  
-  ├── app.py
-  
-  ├── kidney.pkl
-  
-  ├── requirements.txt
-  
-Technologies Used
+
+├── static 
+│   ├── css
+├── template
+│   ├── kidney.html
+├── Procfile
+├── README.md
+├── app.py
+├── kidney.pkl
+├── requirements.txt
  
 
 Bug / Feature Request
