@@ -12,7 +12,9 @@ Table of Content
 Demo
 
 Link: https://kidney26.herokuapp.com 
-![alt text](https://kidney26.herokuapp.com)
+
+![Kidney](https://user-images.githubusercontent.com/36689965/117563128-78651800-b0c1-11eb-8179-44334502cc8c.JPG)
+
 
 Overview
 
